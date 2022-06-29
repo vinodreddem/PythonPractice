@@ -1,3 +1,18 @@
+Solid principles of Python
+
+setup.py 
+Asyncio
+
+ipdb -- syntax highlighting 
+pudb -- terminal base , equivalent of graphical userface 
+remotepdb -- it will do through tcp mode 
+
+What are all the most common review comments we got ?
+what are all the best approaches or coding standards in python ?
+I don't need all output, I just need to check whether the element is there or not in the given response ? -- The concept of generator.
+Implement caching store based on function name and input -- implement through the caching.
+
+
 Q. Race conditions
 
 Q. Eureka Server?
