@@ -1,3 +1,41 @@
+1. Custom Context Manager - Django
+
+2. Solid principles
+
+I/O OPerations which method better concanteratence or threadings?
+
+what is singles ?
+
+concanteratence or threadings?
+
+models null or blank ?
+
+django validation form in models?
+
+encapluation?
+
+asynchronous coding ?
+
+git bisect 
+
+what will happen if git user terminates?
+
+Angle betweeen to two hands of clock?
+
+Monkey Patching in python?
+
+Django annotations and aggregation differences
+
+What are python egg files?
+
+What is REST API?
+
+Data Injection Attacks?
+
+flask features ?
+
+flask mail feature ?
+
 Solid principles of Python
 
 setup.py 
