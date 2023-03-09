@@ -1,3 +1,5 @@
+# https://santoshk.dev/posts/2022/__init__-vs-__new__-and-when-to-use-them/
+#above link explains the init and new methods and its difference very clearly.
 # Q. Do we have multiple init methods inside a clsas?
 #Ans:  We can define but the last defined one is going to be considered while creating the opbject 
 #Previous records are going to be overide.
