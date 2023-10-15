@@ -1,6 +1,14 @@
 lst = [(12,34,54),(23,56,78)]
 print (lst)
 
+#I have an existing application with method say get_discounts(location):
+#this method is getting called more than 100 places 
+#Now the new requirement is to call the same method but it has to take new input called "policy_number", 
+#so that I can copy discounts from the previous policy.
+#So I don't need to change in all the caller methods but need to add policy_number in the new method
+#How can you implement?
+
+
 lst[0] = 15
 #lst [1][2]= 14  #TypeError: 'tuple' object does not support item assignment
 # list is used to assign multiple variables in a single list
